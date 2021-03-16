@@ -3,9 +3,8 @@
     <td width="75%">
       <h1>Jie Yang(杨杰)</h1>
       <p><b>Master degree candidate</b></p>
-      <p><b>School of Information Science and Engineering, Shandong Normal University</b></p>
       <p><b>E-mail：lingqian9@gmail.com</b></p>
-      <p><b>Address：××市××区××路××号××大学，××楼</b></p>
+      <p><b>Address：428 Laboratory, School of Information Science and Engineering, Shandong Normal University</b></p>
     </td>                                                                                                                                                                         
     <td width="25%">
       <img src="/图片1.jpg" width="100%">      
@@ -14,24 +13,15 @@
 </table>
 
 
-### Markdown
+## Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Multimodal Heterogeneous Network Learning
+2. Medical and Health Big Data
+3. Interpretable AI
+4. Personalized Recommendation
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
