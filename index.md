@@ -24,4 +24,5 @@
 
 
 1. [U-GAT-IT: UNSUPERVISED GENERATIVE ATTENTIONAL NETWORKS WITH ADAPTIVE LAYERINSTANCE NORMALIZATION FOR IMAGE-TO-IMAGE TRANSLATION](https://arxiv.org/pdf/1907.10830.pdf)
+   
    code：[https://github.com/lingqian9/UGATIT-by-paddlepaddle](https://github.com/lingqian9/UGATIT-by-paddlepaddle)
