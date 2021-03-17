@@ -20,18 +20,8 @@
 3. Interpretable AI
 4. Personalized Recommendation
 
+## Selected Publications
 
 
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lingqian9/lingqian9.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. [U-GAT-IT: UNSUPERVISED GENERATIVE ATTENTIONAL NETWORKS WITH ADAPTIVE LAYERINSTANCE NORMALIZATION FOR IMAGE-TO-IMAGE TRANSLATION](https://arxiv.org/pdf/1907.10830.pdf)
+   code：[https://github.com/lingqian9/UGATIT-by-paddlepaddle](https://github.com/lingqian9/UGATIT-by-paddlepaddle)
